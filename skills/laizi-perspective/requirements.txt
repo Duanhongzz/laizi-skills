@@ -1,0 +1,2 @@
+# Optional: pinyin queries. Chinese and alias search work without it.
+pypinyin>=0.55,<1

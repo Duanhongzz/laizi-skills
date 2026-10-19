@@ -1,0 +1,381 @@
+{
+  "format": "skill-release-v1",
+  "notes": [
+    "当前角色资料、文字转录与检索工具的发布文件清单。",
+    "文件校验值对应本版本内容。"
+  ],
+  "files": [
+    {
+      "destination": "laizi_corpus.json",
+      "packaged_sha256": "66cedb84b8f4670de7b083bb99b635b330eee7fdb6a3fcadc6c2e58689d7a45f"
+    },
+    {
+      "destination": "references/persona.md",
+      "packaged_sha256": "2a0949cad50ae695afcd275a7d70a4668b4d69cbd07c7ea029a7e00d468d10a6"
+    },
+    {
+      "destination": "references/relationships.md",
+      "packaged_sha256": "cc7131c7fb0c721701fed8e57d95721afc9842efc4a6569db95a90bf283adab5"
+    },
+    {
+      "destination": "references/source-index.md",
+      "packaged_sha256": "2c13e507757e28a8aafac40f4a835a6bb4f5cde830af6f03844c2503896cc43e"
+    },
+    {
+      "destination": "references/sources/transcripts/2018-05-19唯满侠--赖子首倒老谢_BV1yp411d74f.txt",
+      "packaged_sha256": "8e3cc73e84f8e78b9f968d1f062f656c7023c36d7ccca56c7665748b7320768c"
+    },
+    {
+      "destination": "references/sources/transcripts/2018.1.20唯满侠恶人进攻 369VS赖子 恶人险胜_BV1cW411i7Fz.txt",
+      "packaged_sha256": "417467dafd83756359a938ccee563e236b9bf455440a8d73b769fa832fb18583"
+    },
+    {
+      "destination": "references/sources/transcripts/2021 630唯满侠恶人送别沧澜赖子仪式_BV15w411Z7Hy.txt",
+      "packaged_sha256": "826cb3a16e5863b3b040771e995e3a79f74093d66ee3a3538cd1febe76007345"
+    },
+    {
+      "destination": "references/sources/transcripts/2025-10-18 双梦晚上场大攻防！赖子 VS 369！浩气五比一！_BV1ULWbzMEME.txt",
+      "packaged_sha256": "6afee7978619671e9b770f6310ec184ac41a0b524fb3ed2a8cff0d1a2cd872a8"
+    },
+    {
+      "destination": "references/sources/transcripts/2025-11-29 周六晚上场双梦大攻防录屏！汤圆+赖子+暮上 VS 369+双塘+小郁！_BV1byUfBMEvC.txt",
+      "packaged_sha256": "21ed26ee65eccf609a3507b6ab6056efb49886acde3094343a076f22401f57e8"
+    },
+    {
+      "destination": "references/sources/transcripts/2025双梦大攻防赖子VS369三比三__BV1SoxFzeEBg.txt",
+      "packaged_sha256": "bd4ba3a56316629d0608445e89130145883ed6529c6684ea33b495bf34cc1098"
+    },
+    {
+      "destination": "references/sources/transcripts/3大老牌指挥联合反攻老王？浅笑老浅赖子：啊？我吗？_BV1fx4de2EWF.txt",
+      "packaged_sha256": "2d930aab2ab22a045e80f1a63fd9ef8a6842672de028a155c6035457a53a5f6c"
+    },
+    {
+      "destination": "references/sources/transcripts/Desktop录屏_2023-04-09.txt",
+      "packaged_sha256": "1cbad236152cbbadabc339bf3283aaff88c8dd28845946b09819875d65e5b4c0"
+    },
+    {
+      "destination": "references/sources/transcripts/JX3录屏_2023-04-04.txt",
+      "packaged_sha256": "5022d01b86b28502632392c93db8300599d57b0db3e439ab25cf313f5ce80e11"
+    },
+    {
+      "destination": "references/sources/transcripts/JX3录屏_2023-04-06.txt",
+      "packaged_sha256": "29017bd7d162db0322be0feae4323e2b0aa42c45fc83b23c08bd427af6580412"
+    },
+    {
+      "destination": "references/sources/transcripts/JX3录屏_2023-04-06_DVR.txt",
+      "packaged_sha256": "b0199075fba5c0c985eb3dc6aedf86b63fd92db615b3bbced84e2254009fcff8"
+    },
+    {
+      "destination": "references/sources/transcripts/《深夜单口相声哄睡环节》粉丝点菜，想听听传奇指挥赖子的反攻生涯。18年之后多少了解一点，如有不对，欢迎补充，少点戾气。锁定直播间，知无不言言无不尽_BV1rUzTYfETz.txt",
+      "packaged_sha256": "15331ccc89f9a8723f17e3b0734099efeeea57657ed63b9d1457f913073da1ac"
+    },
+    {
+      "destination": "references/sources/transcripts/【剑三】爱啦啦 赖子版_BV1Xx411A7hG.txt",
+      "packaged_sha256": "e67e6c137ca30047ac83028be5c2a38bb26e9bd178cae83aaec4276b61112eba"
+    },
+    {
+      "destination": "references/sources/transcripts/【剑网3】关于剑三网友点外卖发现老板是赖子这回事_BV1kb4y1x7Me.txt",
+      "packaged_sha256": "dd19b42591668031ef3f66c3940bcb622a4a55e5d671b29f4aebb973d000915c"
+    },
+    {
+      "destination": "references/sources/transcripts/【剑网3】阵营第一指挥“赖赖”的决赛高光_BV1UAdfBDERY.txt",
+      "packaged_sha256": "fe39cdab8259c25a072bb80f6c995633e72058ffbf4a50624e9a8049b7fd0656"
+    },
+    {
+      "destination": "references/sources/transcripts/【剑网3吃瓜】赖子起诉西山居，搞错了剑网3游戏运营主体，笑不活了_BV1yP4y137aN.txt",
+      "packaged_sha256": "31adf690f690b567f962acfcca499adb93eaa12c1c750212507a9852f8d0eef5"
+    },
+    {
+      "destination": "references/sources/transcripts/【剑网三_乾坤一掷_华乾】20151513晚上进攻大进指挥赖子解说_BV1Cs41197eq.txt",
+      "packaged_sha256": "a1e5bfbb7b6b9c3598b8d7f8f9994e969c2df85318eb50caadae66a29239dcdd"
+    },
+    {
+      "destination": "references/sources/transcripts/【剑网三_风雨大姨妈】20140517赖子变声器指挥恶人GF_BV1zs41117Dx.txt",
+      "packaged_sha256": "8c1d72c50a10fe1fa18ff5a9bd72c153c075928370bbd291821fa6f893e8eef5"
+    },
+    {
+      "destination": "references/sources/transcripts/【剑网三_风雨大姨妈】20151001赖子直播龙门_BV13s41127Wr.txt",
+      "packaged_sha256": "673fc26f72a02fce6842524f099781a2f7e7d457993820cd715f0a4515df8280"
+    },
+    {
+      "destination": "references/sources/transcripts/【剑网三_风雨大姨妈】818姨妈服浩气指挥的JQ故事_BV1cs411Z72s.txt",
+      "packaged_sha256": "4dd845d037a9bd79abb380c82c1072274eed6a8a579ff5f4b8f17c9740f92831"
+    },
+    {
+      "destination": "references/sources/transcripts/【剑网三_风雨大姨妈】818辣对口胡的攻防指挥_BV1jx411T7Yu.txt",
+      "packaged_sha256": "10783f82bf0e1355b1ad1f958de95637c3b50c71dda2f20c3d1c4c3415aecf3d"
+    },
+    {
+      "destination": "references/sources/transcripts/【剑网三_风雨大姨妈】苍澜赖子最后的苍澜_三千世界与君共战天下_BV12s41127f3.txt",
+      "packaged_sha256": "09f24a836a45466f8e695ed79a50c9f11a3e3354aeed61694c9230406dbb7c89"
+    },
+    {
+      "destination": "references/sources/transcripts/【剑网三】151020赖子城战-90339撕逼始末_BV1es41127RN.txt",
+      "packaged_sha256": "584d7d74d83aff4f057d0f036666037002223b724361642ff5c76b13733571d3"
+    },
+    {
+      "destination": "references/sources/transcripts/【剑网三】20150913双梦周日GF爆流浩气指挥大进讲解赖子实力背锅_BV1qs41117K7.txt",
+      "packaged_sha256": "8c214eee194b26a5954e56b5cc8c967fb0eeccee78a8aadcac5ac58e535da630"
+    },
+    {
+      "destination": "references/sources/transcripts/【反攻双梦】苍澜 重组！建立双梦浩气新秩序！铁骨铮铮，拒绝摆烂！“赖子giegie再带我冲一次吧！”_BV1HF411s7mo.txt",
+      "packaged_sha256": "9ebad92f0f2ba2e0b1f4f25163e4df988a8013123095ee68a8af8213d3076885"
+    },
+    {
+      "destination": "references/sources/transcripts/【反攻双梦】赖子和欧阳子桓被封有什么关系？_BV1aY411c7TV.txt",
+      "packaged_sha256": "235b3b528d29ba7202a5c3a1e89a8c04e86352e0c24b8b797c6914536283f7fb"
+    },
+    {
+      "destination": "references/sources/transcripts/【反攻双梦】赖子：@策划 请这周别修复了 明天我也需要墙_BV1hu411C7e9.txt",
+      "packaged_sha256": "7173c9cc62baeed2180efcb605cc929e6399b7dea0c680e6633dc1de8cb116cf"
+    },
+    {
+      "destination": "references/sources/transcripts/【反攻双梦】赖子：哟，双梦浩气又高傲，觉得自己是最强浩气，呸！什么最强浩气，我当年带的姨妈服才是最强浩气！看不到一点儿最强浩气的底蕴，养猪人终成猪！_BV17F411M7Wx.txt",
+      "packaged_sha256": "4815a39a1b4b7950d8186b21bb74fded46bda934d12051dfd9987342c4e9e3b3"
+    },
+    {
+      "destination": "references/sources/transcripts/【大新闻！2022双梦恶人掉老王！墨奕辰、369、VN都在！反攻到自己掉王遗风，难以置信！_BV1oT411M7a9.txt",
+      "packaged_sha256": "793b20573e16b8ea93b50d0be245ba55da84961b7bc5441eb9e64573ca895bc1"
+    },
+    {
+      "destination": "references/sources/transcripts/【苍澜赖子】阵营之王的正式回归 斗鱼复播！_BV1Zd4y1n7ut.txt",
+      "packaged_sha256": "55822088cc51d0ea0fee627166553baa097feff511a77f2c2dd9258e0dc77cb7"
+    },
+    {
+      "destination": "references/sources/transcripts/【苍澜重组】赖子复活苍澜千人大会，太孝了_BV1e94y1d7QX.txt",
+      "packaged_sha256": "be79e0cecab068c1a23e8d27ced43c7cb28b0440d57491a8c301af26920502f0"
+    },
+    {
+      "destination": "references/sources/transcripts/【赖子】全区服英雄舞阳城老6首杀，血河第一视角_BV1Bs411M7Ln.txt",
+      "packaged_sha256": "f031f1b6117370cd257b7ff315aa8b5ee7bbfe9e11c798f750bb6b3048c2f3fd"
+    },
+    {
+      "destination": "references/sources/transcripts/【赖子】紫禁之巅比武大会三连冠，血河视角+PDD等队友_BV1LW411o78Q.txt",
+      "packaged_sha256": "af2b020345aa31cd2f3d852d67249aeb80efa40f12b0b6f953b4e68eed03cbb6"
+    },
+    {
+      "destination": "references/sources/transcripts/【闻鼓当歌】剑三阵营指挥14p群像（剑网3十二周年原创）_BV1YB4y1T7Ur.txt",
+      "packaged_sha256": "b6c03ae00b5ef19d57f0a1b2866066e2b107371ba3b20ab75d0956741bc6a00f"
+    },
+    {
+      "destination": "references/sources/transcripts/世界上的另一个阵营之王_BV16d4y1C7nU.txt",
+      "packaged_sha256": "248dcfebb9d9c071eff05738727eb2d99f82415d3ff9ed880e023546217fbb17"
+    },
+    {
+      "destination": "references/sources/transcripts/二阶堂赖子——墨东署的八卦欧皇_BV1954y1E74a.txt",
+      "packaged_sha256": "4b9de641eaf07ee5182d96a3d2c27c28fa87e1715ba94602bd302e4d1190dc9c"
+    },
+    {
+      "destination": "references/sources/transcripts/传世经典千人大战赖子躺地__BV1n44y1G7wJ.txt",
+      "packaged_sha256": "49c11314aa06f85f18eb56e81a12b9a4525bad39db08b860f32f33471691fd9a"
+    },
+    {
+      "destination": "references/sources/transcripts/六十章丨新赛季“暗影千机”资料片即将开启！赖子宣布双梦解散！ #剑网3 #剑网3激励计划 #剑网3阵营风云录_BV1TtoaBCEpZ.txt",
+      "packaged_sha256": "c41cdedbc14f917af401f2efe6c5a636f9a6df2b04ebaca3a31a28f444dc8813"
+    },
+    {
+      "destination": "references/sources/transcripts/剑三顶流之赖子状告西山居（录屏一小段）_BV1Ti4y1Z7fZ.txt",
+      "packaged_sha256": "99c31d292550246d8e77efd18a91175f3c8527477fe48e468c85d71a1f641118"
+    },
+    {
+      "destination": "references/sources/transcripts/剑网3姨妈服100级赛季末浩气阵营大会（上集）__BV1it4y1z7o6.txt",
+      "packaged_sha256": "4d22fa1e4de3f3d355be8beb745d667214b599a5d610eb2c380d51efc8a281b5"
+    },
+    {
+      "destination": "references/sources/transcripts/剑网3姨妈服100级赛季末浩气阵营大会（下集）__BV1jt4y1z7Ai.txt",
+      "packaged_sha256": "acdf0eda76e843d62729db19ddfe77b4ecce8857f9e97a0d131350a846504b1a"
+    },
+    {
+      "destination": "references/sources/transcripts/华乾5服乱华浮生夺统战__BV1wJ411S7ew.txt",
+      "packaged_sha256": "8c127a9abcaafa94f1a68d659391f3597aa7a8462c2501b178eff521a22f808e"
+    },
+    {
+      "destination": "references/sources/transcripts/华乾放学防守掉老王__BV1mp4y1C7hJ.txt",
+      "packaged_sha256": "0d418de6c275512e867cfde5b50eda1d4735903e0d3c6ee386aae726ceb87f99"
+    },
+    {
+      "destination": "references/sources/transcripts/华乾浩气首倒老王__BV1Jt411t74L.txt",
+      "packaged_sha256": "7f5b865161b279372b809b5326a0ade51e1e7fae0b132b01afcc81f1cf591872"
+    },
+    {
+      "destination": "references/sources/transcripts/双梦侠客VS传说江山__BV13s411c7f5.txt",
+      "packaged_sha256": "5127c9c17de5fa97957d12a667be135be4df76738df3c6f51d74008c28dccc1b"
+    },
+    {
+      "destination": "references/sources/transcripts/双梦四分钟极速倒王遗风__BV1VW411m7vs.txt",
+      "packaged_sha256": "16ece287fb2f330f73ee3b0a3d2cc0f082e28f5af51dc39347b7711785895b2d"
+    },
+    {
+      "destination": "references/sources/transcripts/双梦战斗总结__BV1xZ4y1q7mp.txt",
+      "packaged_sha256": "eceddafb67309dfaa912f696ad43a2e02891892c74f62312125385c574f5276e"
+    },
+    {
+      "destination": "references/sources/transcripts/双梦时隔3年再倒昆仑__BV1fb411p7j1.txt",
+      "packaged_sha256": "fe67841b4a3edd4a2bcb4a7eef17cb9579c6c2798a6aec84f27750b60ebc6887"
+    },
+    {
+      "destination": "references/sources/transcripts/双梦浩气6月4日中午场赖子破防录音_BV1jX4y187eA.txt",
+      "packaged_sha256": "e97ba3b47cc6f214e5ba66de73404f1945e1e614fd1bbcd156e4c7b5754df62e"
+    },
+    {
+      "destination": "references/sources/transcripts/双梦通宵阵营战__BV1jm4y187fY.txt",
+      "packaged_sha256": "4cda906ebb8e8249adcfb59ad5829520d3c8ace0c197143528db63d5cde648c5"
+    },
+    {
+      "destination": "references/sources/transcripts/反攻双梦恶人大攻防胜李勇敢附体__BV1YF411q7Qb.txt",
+      "packaged_sha256": "e735332c92f87bbfcefda84a64b07e28a23bb6b4881b467cc8e03fc7650c93f8"
+    },
+    {
+      "destination": "references/sources/transcripts/反攻双梦赖子回归首战被灭__BV1834y1Y74p.txt",
+      "packaged_sha256": "a0274687ee69ac95ca8c820a2e453a3670cdf05118bd87d7d4ea796a4aa84bcd"
+    },
+    {
+      "destination": "references/sources/transcripts/唯满侠2.0都比这边强.txt",
+      "packaged_sha256": "715b952a5020878dbe89b3a69a80d5092d9f2faf2e444d3fdbb38e28c7ac20fe"
+    },
+    {
+      "destination": "references/sources/transcripts/唯满侠倒昆仑凛风堡__BV1BN4y1T7jC.txt",
+      "packaged_sha256": "8c4c24792f2c7ffc83e3db31f6a137d05a2b8a2d6e904e69c66c76491c2f8b13"
+    },
+    {
+      "destination": "references/sources/transcripts/唯满侠巴陵八百人流水席纪念赖子封号第七天（内附足球队表演与王维唢呐）_BV1hB4y1N7Cs.txt",
+      "packaged_sha256": "fda39ed83bf1c94c1e2f902591f55efa944fcdbbb2ddf0852f18ee36a74f8579"
+    },
+    {
+      "destination": "references/sources/transcripts/唯满侠老王全服首倒__BV1Pi4y1U7rM.txt",
+      "packaged_sha256": "6ad7a19b0b6aac29b7f4cdf59cf3b6fd73eef6597a6812d0d3cf315fc8725e1d"
+    },
+    {
+      "destination": "references/sources/transcripts/唯满侠苍澜赖子野外扫图__BV1ts411F749.txt",
+      "packaged_sha256": "e835f6554c32d9ba9f784d972cae8dbf67897253da857514bc871398b333004f"
+    },
+    {
+      "destination": "references/sources/transcripts/大和尚教育江山传说__BV1ts411F7G9.txt",
+      "packaged_sha256": "1a3998d78fba625cbfbf2d45e139b3698ebce0a6a8a5614a23f5aac41f07fd44"
+    },
+    {
+      "destination": "references/sources/transcripts/天地复读机，赖子与赖子的对决，含大斧最功利爆发连_BV17Bf8YiEEM.txt",
+      "packaged_sha256": "cb87a76d9410cd004ab0e7670ec931d09d703dd2d2b868f8bc52e061cd853872"
+    },
+    {
+      "destination": "references/sources/transcripts/巅峰阵营赛浩气死守月弄痕__BV1kt411e7Mp.txt",
+      "packaged_sha256": "a38cf33e79858c10caaadc23a0b9799d29ed8888c724e7368914774bfba87980"
+    },
+    {
+      "destination": "references/sources/transcripts/恶人统战联盟内战__BV1Eb411B746.txt",
+      "packaged_sha256": "d390283ffdc08d5e1e93481453fe6557b7dd81fb20e86ebd970bc5afe93b9a23"
+    },
+    {
+      "destination": "references/sources/transcripts/我姨妈浩气才是最强的.txt",
+      "packaged_sha256": "0a23187fff3ecfba938f9c462e81c682f1cf25939b0131c7a5a9160d852ef21d"
+    },
+    {
+      "destination": "references/sources/transcripts/武汉口口赖子杠赖子_BV1nV4y1R7im.txt",
+      "packaged_sha256": "5b7466640e65a0e66fec80e2d227df87f79c0b7379d31096d57e494e7b901515"
+    },
+    {
+      "destination": "references/sources/transcripts/江山传说退服双梦__BV1wb41177ar.txt",
+      "packaged_sha256": "012c991c23eb4f4ff9f8d0477f27453429024ccc881586c1e8d7c9b386f1be2c"
+    },
+    {
+      "destination": "references/sources/transcripts/江山墨奕辰双梦二倒老王__BV1vb411N7Dj.txt",
+      "packaged_sha256": "22878d799489c622a8176853883264fe63c356a3ee4805cd55e686f245bee24f"
+    },
+    {
+      "destination": "references/sources/transcripts/江山墨奕辰双梦首倒老王__BV14t411R7cZ.txt",
+      "packaged_sha256": "4c54511941cba7e88214bec38ea3f133c2ed7adbcd15ffc8e83266f2c1fe0d94"
+    },
+    {
+      "destination": "references/sources/transcripts/浅佐爆流VS王维放学__BV1bE411g74y.txt",
+      "packaged_sha256": "fa5c7635ff16d4f4f91d953ae5ad21c8978ddb11940c927bc07d3438c5564424"
+    },
+    {
+      "destination": "references/sources/transcripts/祝癞子生日快乐江山李勇敢__BV1cr4y1i7wn.txt",
+      "packaged_sha256": "2dad2f1d59c199e5c18ee2cab78966b4c096e21212f864e7a3a868b12c52b324"
+    },
+    {
+      "destination": "references/sources/transcripts/苍澜VS江山墨奕辰__BV1y3411T7qJ.txt",
+      "packaged_sha256": "8ed20104b7c20dd86a87ecb880c84e58685b15e2c75b33bf07a3fc9061a48f33"
+    },
+    {
+      "destination": "references/sources/transcripts/苍澜vs轩枫帮战__BV1hM411T7tN.txt",
+      "packaged_sha256": "c838e48b6f13296efab3c80e48b8b12bf11f2516436a96f37dc823e42c5a52a9"
+    },
+    {
+      "destination": "references/sources/transcripts/苍澜宣战江山龟缩摆烂__BV1xh41157CQ.txt",
+      "packaged_sha256": "5d47c9e3ae14454c54ff882d7e33bcc461413dc6d67453c1b89b38c228bd6c75"
+    },
+    {
+      "destination": "references/sources/transcripts/诛仙世界一剑诛仙帮会联赛甲组 苍澜旧梦 VS 望江月，赖子bug屏幕灰屏云指挥__BV1MRCHYZEhH.txt",
+      "packaged_sha256": "fd4ca90f10f428bc522458d90c52ca7ded0e43d89910ce07fc3c2dd1ec70f2e0"
+    },
+    {
+      "destination": "references/sources/transcripts/赖子出征唯满侠动员大会，誓与国王苟利国决一死战！_BV1J54y1j7gV.txt",
+      "packaged_sha256": "560f90d2cfaabd26f6b7b4a457707fd37153d75e1b10c9bf34528f3ec6bdc622"
+    },
+    {
+      "destination": "references/sources/transcripts/赖子陶杰买雷飞机撞树__BV1ff4y1q7PH.txt",
+      "packaged_sha256": "2903d4ae8bcedef10d9708d853550882d3f4a12012e039efda55a6de8f8fd279"
+    },
+    {
+      "destination": "references/sources/transcripts/赖小皮抖音直播_2022-05-08.txt",
+      "packaged_sha256": "ba19b0ebbb9012566d8a6e497fde4983c405855de3d3394fde6946ad46ccb8d8"
+    },
+    {
+      "destination": "references/SWW沈婉婉唯满侠搜索结果汇编.md",
+      "packaged_sha256": "9b0ed455e0a56416eebac42a284ce3a4833653b2fe56dc9111bf2c6ae8fd336a"
+    },
+    {
+      "destination": "references/SWW沈婉婉唯满侠整理.md",
+      "packaged_sha256": "2a11503b9b055436e79683d375b687f54f18facd4143f6c68cc334d7a4eb40b5"
+    },
+    {
+      "destination": "references/九声说事_内容汇总.md",
+      "packaged_sha256": "b0fe9047ee0e01b681fab3c9e470f83ef368ebdd8c441e52a0f4238dc51c8e5c"
+    },
+    {
+      "destination": "references/剑网三阵营编年史.md",
+      "packaged_sha256": "2195b8e40945383aa339f99552200700c513431d1f28fb01f94c95b718a787a6"
+    },
+    {
+      "destination": "references/补充资料.md",
+      "packaged_sha256": "576c9c7ab246db7677ac5a4809a788baf9dcd7fbfe40721cc78278b49e0d8c8c"
+    },
+    {
+      "destination": "references/贴吧搜索最终汇总_2026-07-02.md",
+      "packaged_sha256": "c7417480bc936f4f664fe3d0d0b45ca90ee6ad05f299f17a049570b0abb15267"
+    },
+    {
+      "destination": "references/贴吧搜索汇总_2026-07-02.md",
+      "packaged_sha256": "2e7ca8c8e24d6380547dea8db7588ff2dab5e1e525ea9d0988d924d20951747c"
+    },
+    {
+      "destination": "references/贴吧搜索汇总_继续_2026-07-02.md",
+      "packaged_sha256": "ef4a523d59af3a42c0fa0979be5af234cedc3f5c81f85743a1f96bbe46a3f7f7"
+    },
+    {
+      "destination": "requirements.txt",
+      "packaged_sha256": "a7ecad001f9f229ae2e3f4855b540cdb73fa3befee744a1ae545a264aab66e42"
+    },
+    {
+      "destination": "scripts/build_corpus.py",
+      "packaged_sha256": "2fe62bcab43c7558f7a6e15eaeb6e8ac9cddaa6da0695f146416db39c0e7396b"
+    },
+    {
+      "destination": "scripts/patch_corpus_names.py",
+      "packaged_sha256": "d30e992afa1e130e1ad7a9f3c6c14fe6aa5c7bb60a3ef04726592fe1b37ccf5f"
+    },
+    {
+      "destination": "scripts/search_corpus.py",
+      "packaged_sha256": "c5bf8261de38eb79cc0b9ac5486f5c2b676e0588149f40593fb269d091c91cf3"
+    },
+    {
+      "destination": "scripts/test_search_regression.py",
+      "packaged_sha256": "d7202101720e3e7226e7aee5ee9dee50cfaacb048c1fc95cb25bc609d79a9150"
+    },
+    {
+      "destination": "SKILL.md",
+      "packaged_sha256": "f33d6a5c207fdfd94cb57f1d6526e2d3c31742113eecec65fd62418e1a7ab4c8"
+    }
+  ]
+}
