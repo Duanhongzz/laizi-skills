@@ -10,17 +10,25 @@
 
 原聊天网站、语音服务、用户数据库、认证文件和大体积音视频素材**不在**本仓库中。
 
-## 快速开始
+## 30 秒开始
 
-将 `skills/laizi-perspective` 整个目录复制到你所用工具的技能目录下，并保留其中的参考资料和脚本。
+在项目目录运行，按提示选择要安装到的 AI 工具：
 
-技能入口是 `SKILL.md`，它负责调度资料，本身不是长篇资料存档。
+```bash
+npx skills add https://github.com/Duanhongzz/laizi-skills --skill laizi-perspective
+```
 
-### 请求示例
+也可以直接把这段话发给有 Shell 权限的 AI Agent：
 
-- 用赖子视角回复这句话，控制在三句以内。
-- 用赛博赖子的口吻写一段游戏失败后的对白，并注明这是模拟对白。
-- 查一下某个人物在现有资料中的记录，区分有资料记载的部分和无法确认的部分。
+```text
+帮我安装 laizi-perspective 技能。仓库地址：https://github.com/Duanhongzz/laizi-skills。请将仓库中的 skills/laizi-perspective 完整安装到当前工具支持的技能目录，保留参考资料和脚本，完成后检查技能是否可以被识别。
+```
+
+安装后直接对 Agent 说：
+
+```text
+使用 laizi-perspective 技能，以赖子视角和我聊天。
+```
 
 ## 目录结构
 

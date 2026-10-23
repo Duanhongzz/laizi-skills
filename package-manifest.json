@@ -14,8 +14,8 @@
       "sha256": "0efbdecfdca78ffc36d531f5c6b0a25ae01f32d99c5107049ec35eb42078dc9a"
     },
     "README.md": {
-      "bytes": 3427,
-      "sha256": "c3482c5e3dc679a784c446d87648d22e835c1126abacf86f6d4e47f8e838ff68"
+      "bytes": 3551,
+      "sha256": "6bc664de0f793e072ae4a6b2aba88d05b0fd880d46db6292fd23413b1b350dab"
     },
     "scripts/validate_package.py": {
       "bytes": 6182,
